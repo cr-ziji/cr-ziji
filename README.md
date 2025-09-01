@@ -35,7 +35,7 @@
 
 ## 正在折腾 / Currently Hacking On
 
-- <img src="https://img.shields.io/badge/-Auto366-blue" /> [Auto366](https://github.com/CyrilGuoCODE/Auto366)
+- <img src="https://img.shields.io/badge/-MCP-server-blue" /> [MCP-server](https://github.com/cr-ziji/MCP-server)
 
 ---
 
